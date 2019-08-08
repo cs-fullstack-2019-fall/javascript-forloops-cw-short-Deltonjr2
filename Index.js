@@ -18,13 +18,13 @@ for (var x=-3; x<9; x++){
 for (var x=0; x<51; x++){
 
 }
- if (x===10) {
+//  if (x===10) {
 
-console.log ("Ten")
+// console.log ("Ten")
 
 
 
-for (var x=0; x<1; x++)
+// for (var x=0; x<1; x++)
 
 
 
